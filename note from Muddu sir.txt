@@ -1,0 +1,17 @@
+Dear Mukund/Kini,
+
+Please find the octuple tank simulator.
+
+The disturbance is created as follows:
+The white noise sequence is pass through stochastic process i.e., [ 0.1/(1 -0.9 Z^-1)]
+
+The disturbance d(k) sequence is 
+d(k) = [0.1 / (1 -0.9 z^-1 )] w(k).
+where w(k) is the white noise sequence with zero mean and standard deviation one.
+
+Also, you can see that measurement noise for the first four tank is found to be with 0.5 standard deviation and rest of the tank measurement noise of standard deviation is 0.25. 
+
+This simulator will be used to generate data for the rest of the problem.
+
+
+Best regards,

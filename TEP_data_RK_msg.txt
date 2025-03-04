@@ -1,0 +1,14 @@
+dt: Jan 05, 2025 (Sun)
+IST 1953 hrs
+~~~~~~~~~~~~~~~~~~~~~~
+
+Dear MKM
+
+Please find the TE process data set.
+
+the file "d00" is the training data.
+
+Testing data faulty files are "d01_te", "d02_te"... etc until "d21_te". Do not use any other files mentioned for either training or testing
+
+Regards
+RK
